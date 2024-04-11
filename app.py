@@ -1,4 +1,4 @@
-from collections.abc import Iterable
+import collections
 import streamlit as st
 from PyPDF2 import PdfReader
 from pptx import Presentation
