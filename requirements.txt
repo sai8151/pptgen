@@ -1,0 +1,4 @@
+streamlit==0.89.0
+PyPDF2==1.26.0
+python-pptx==0.6.19
+summa==1.2.0
